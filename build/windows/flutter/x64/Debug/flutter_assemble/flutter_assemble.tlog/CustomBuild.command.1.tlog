@@ -1,0 +1,28 @@
+^Z:\USERS\GUILLERMO\DOCUMENTS\FLUTTER\NAMER_APP\NAMER_APP\BUILD\WINDOWS\CMAKEFILES\8E15C4E7B4C62AD2B4CDFDDDBD6452A5\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"Z:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter PROJECT_DIR=Z:\Users\Guillermo\Documents\Flutter\namer_app\namer_app FLUTTER_ROOT=C:\src\flutter FLUTTER_EPHEMERAL_DIR=Z:\Users\Guillermo\Documents\Flutter\namer_app\namer_app\windows\flutter\ephemeral PROJECT_DIR=Z:\Users\Guillermo\Documents\Flutter\namer_app\namer_app FLUTTER_TARGET=Z:\Users\Guillermo\Documents\Flutter\namer_app\namer_app\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC8yYTM0MDFjOWJiYjVhOWE5YWVjNzRkNGY3MzVkMThhOWRkM2ViZjJkLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=Z:\Users\Guillermo\Documents\Flutter\namer_app\namer_app\.dart_tool\package_config.json C:/src/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^Z:\USERS\GUILLERMO\DOCUMENTS\FLUTTER\NAMER_APP\NAMER_APP\BUILD\WINDOWS\CMAKEFILES\6144466A1B7A611FC2E4DF74AB637BC7\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^Z:\USERS\GUILLERMO\DOCUMENTS\FLUTTER\NAMER_APP\NAMER_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"Z:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SZ:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/windows -BZ:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows --check-stamp-file Z:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

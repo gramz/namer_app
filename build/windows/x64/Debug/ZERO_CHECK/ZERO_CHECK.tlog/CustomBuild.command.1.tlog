@@ -1,0 +1,10 @@
+^Z:\USERS\GUILLERMO\DOCUMENTS\FLUTTER\NAMER_APP\NAMER_APP\BUILD\WINDOWS\CMAKEFILES\414D3FEB5C2159131B7B2399A90432C2\GENERATE.STAMP.RULE
+setlocal
+"Z:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SZ:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/windows -BZ:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file Z:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows/namer_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

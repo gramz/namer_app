@@ -1,0 +1,9 @@
+Z:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows/runner/Debug/data/icudtl.dat
+Z:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows/runner/Debug/flutter_windows.dll
+Z:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+Z:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.smcbin
+Z:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+Z:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+Z:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+Z:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+Z:/Users/Guillermo/Documents/Flutter/namer_app/namer_app/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

@@ -1,0 +1,10 @@
+^Z:\USERS\GUILLERMO\DOCUMENTS\FLUTTER\NAMER_APP\NAMER_APP\BUILD\WINDOWS\CMAKEFILES\414D3FEB5C2159131B7B2399A90432C2\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
