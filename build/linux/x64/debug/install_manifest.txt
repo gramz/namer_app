@@ -1,0 +1,11 @@
+/home/gramz/Flutter/namer_app/build/linux/x64/debug/bundle/namer_app
+/home/gramz/Flutter/namer_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/gramz/Flutter/namer_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/gramz/Flutter/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/gramz/Flutter/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.smcbin
+/home/gramz/Flutter/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/gramz/Flutter/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/gramz/Flutter/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/gramz/Flutter/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/gramz/Flutter/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/gramz/Flutter/namer_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
